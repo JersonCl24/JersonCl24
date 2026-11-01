@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Jerson Carpio Luque — Backend Software Engineering" width="100%" />  <p>
+    <p>
     <a href="https://www.linkedin.com/in/jerson-carpio-luque-966271331/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/JersonCl24?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-17243B?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios GitHub" /></a>
   </p>
