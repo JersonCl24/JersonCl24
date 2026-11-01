@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/jerson-carpio-luque-966271331/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/JersonCl24?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-17243B?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios GitHub" /></a>
   </p>
-</div>$ whoami
+</div>
 Soy Jerson Carpio Luque, estudiante del 10.º ciclo de Ingeniería de Software en la Universidad Tecnológica del Perú (UTP), enfocado en el desarrollo Backend con Java y Spring Boot.
 
 Me interesa profundizar en arquitectura de software, diseño de sistemas robustos, separación de responsabilidades, persistencia de datos, testing y mantenibilidad. Desarrollo proyectos personales como una forma de aplicar conceptos de ingeniería y evaluar decisiones técnicas.
